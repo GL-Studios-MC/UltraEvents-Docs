@@ -2,6 +2,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20_--_26.3+-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://gl-studios.gitbook.io/ultraevents-wiki)
 [![Forks](https://img.shields.io/badge/Forks-Paper_|_Purpur_|_Folia_|_Spigot-0078D4?style=for-the-badge)](https://gl-studios.gitbook.io/ultraevents-wiki)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-UltraEvents_Lite-ed8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/resources/ultraevents-lite-automated-mini-game-events-system-1-20-26-3.140244/)
 [![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://gl-studios.gitbook.io/ultraevents-wiki)
 [![Architecture](https://img.shields.io/badge/NMS-0%25_(Future_Proof)-purple?style=for-the-badge)](https://gl-studios.gitbook.io/ultraevents-wiki)
 
@@ -35,7 +36,7 @@ UltraEvents is an all-in-one automated mini-game event engine designed specifica
 ### Editions
 
 UltraEvents is available in two editions:
-1. **UltraEvents Lite**: Free edition on SpigotMC featuring 4 community-favorite mini-games.
+1. **UltraEvents Lite**: [Free edition on SpigotMC](https://www.spigotmc.org/resources/ultraevents-lite-automated-mini-game-events-system-1-20-26-3.140244/) featuring 4 community-favorite mini-games.
 2. **UltraEvents PRO**: The complete commercial edition with all 15+ mini-games, dynamic custom crates, unlimited commands, and premium support.
 
 👉 Read the [Lite vs. Pro Comparison](lite-vs-pro.md) to see what fits your server best!

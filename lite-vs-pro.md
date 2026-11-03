@@ -4,7 +4,7 @@ Choose the edition that best powers your Minecraft server community.
 
 | Feature | UltraEvents Lite (Free) | UltraEvents PRO (Premium) |
 | :--- | :---: | :---: |
-| **Price** | Free (SpigotMC) | $12.99 / €11.99 Launch Offer |
+| **Download** | [Free on SpigotMC](https://www.spigotmc.org/resources/ultraevents-lite-automated-mini-game-events-system-1-20-26-3.140244/) | Available on BuiltByBit & Polymart |
 | **Available Mini-Games** | **4 Games** (ColorFloor, TNT-Run, TNT-Tag, Red Light) | **All 15+ Games** |
 | **Laser Sweep & Moving Walls** | ❌ | ✅ |
 | **Meteor Storm & Rising Lava** | ❌ | ✅ |
@@ -26,7 +26,7 @@ Choose the edition that best powers your Minecraft server community.
 > **Start Free, Upgrade Anytime!**
 > You can safely start your server with **UltraEvents Lite**. All arena setups, locations, and configurations carry over 100% seamlessly when you upgrade to **UltraEvents PRO**!
 
-* 📥 **UltraEvents Lite**: Download for free on [SpigotMC](https://www.spigotmc.org).
+* 📥 **UltraEvents Lite**: [Download for free on SpigotMC (Resource #140244)](https://www.spigotmc.org/resources/ultraevents-lite-automated-mini-game-events-system-1-20-26-3.140244/)
 * 👑 **UltraEvents PRO**: Get the full edition with all 15+ games on [BuiltByBit](https://builtbybit.com) or [Polymart](https://polymart.org).
 
 ---

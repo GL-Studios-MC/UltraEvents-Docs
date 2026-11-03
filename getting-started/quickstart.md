@@ -18,7 +18,7 @@ Getting UltraEvents up and running on your server takes less than 2 minutes.
 
 ### 1. Installation
 
-1. Download `UltraEvents-1.0.0.jar` (or `UltraEvents-Lite-1.0.0.jar`).
+1. Download **UltraEvents PRO** or [Download UltraEvents Lite on SpigotMC](https://www.spigotmc.org/resources/ultraevents-lite-automated-mini-game-events-system-1-20-26-3.140244/).
 2. Place the JAR file into your server's `plugins/` directory.
 3. Restart or start your server (do not use `/reload`).
 4. UltraEvents will automatically generate its configuration files and default arena world templates.
@@ -38,4 +38,3 @@ Getting UltraEvents up and running on your server takes less than 2 minutes.
    /eventadmin setup save       # Verifies and saves everything
    ```
 5. You are ready! Start your first event with `/eventadmin` -> Click **Event Starten**.
-
