@@ -22,6 +22,14 @@ Choose the edition that best powers your Minecraft server community.
 
 ### Where to download?
 
-* **UltraEvents Lite**: Download for free on SpigotMC.
-* **UltraEvents PRO**: Available on [BuiltByBit](https://builtbybit.com) and [Polymart](https://polymart.org).
+> [!TIP]
+> **Start Free, Upgrade Anytime!**
+> You can safely start your server with **UltraEvents Lite**. All arena setups, locations, and configurations carry over 100% seamlessly when you upgrade to **UltraEvents PRO**!
 
+* 📥 **UltraEvents Lite**: Download for free on [SpigotMC](https://www.spigotmc.org).
+* 👑 **UltraEvents PRO**: Get the full edition with all 15+ games on [BuiltByBit](https://builtbybit.com) or [Polymart](https://polymart.org).
+
+---
+
+### Need Help or Custom Builds?
+Join the official **GL Studios Community Discord** to get 24/7 community assistance, report suggestions, and connect directly with our development team.

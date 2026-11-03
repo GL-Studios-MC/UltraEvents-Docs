@@ -1,6 +1,6 @@
 # In-Game Setup Wizard
 
-With UltraEvents, you don't need to manually write coordinates into YAML files. The entire arena setup can be done in-game in less than a minute.
+With UltraEvents, you don't need to manually write coordinates into YAML files. The entire arena setup can be completed in-game in less than 60 seconds.
 
 ---
 
@@ -57,3 +57,12 @@ If all checkmarks turn green (`✔`), finish by typing:
 ```
 Your setup is permanently stored in `config.yml` and hot-reloaded immediately!
 
+---
+
+> [!IMPORTANT]
+> ### 🛡️ Admin Pro-Tip: WorldGuard & Spawn Protection
+> * **Vanilla Spawn Protection:** If your arena is near the world spawn point, ensure `spawn-protection=0` is set in your `server.properties`, otherwise non-OP players cannot interact with minigame blocks.
+> * **WorldGuard Regions:** If you protect your arena with WorldGuard, ensure the region allows:
+>   * `pvp: allow` (for combat modes like Sumo and One in the Chamber)
+>   * `block-break: allow` (for Spleef)
+>   * Alternatively, UltraEvents bypasses restrictions automatically for registered participants when using standard Bukkit events!

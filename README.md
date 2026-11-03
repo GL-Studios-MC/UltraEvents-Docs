@@ -1,5 +1,10 @@
 # Welcome to UltraEvents
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20_--_26.3+-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white)](https://gl-studios.gitbook.io/ultraevents-wiki)
+[![Forks](https://img.shields.io/badge/Forks-Paper_|_Purpur_|_Folia_|_Spigot-0078D4?style=for-the-badge)](https://gl-studios.gitbook.io/ultraevents-wiki)
+[![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://gl-studios.gitbook.io/ultraevents-wiki)
+[![Architecture](https://img.shields.io/badge/NMS-0%25_(Future_Proof)-purple?style=for-the-badge)](https://gl-studios.gitbook.io/ultraevents-wiki)
+
 Welcome to the official documentation for **UltraEvents**, developed by **GL Studios**.
 
 UltraEvents is an all-in-one automated mini-game event engine designed specifically for modern Minecraft networks and survival servers. It delivers fully automated community party events featuring 15+ built-in mini-games, an integrated in-game arena setup wizard, multi-tier reward engines, and multi-language support.
@@ -17,6 +22,16 @@ UltraEvents is an all-in-one automated mini-game event engine designed specifica
 
 ---
 
+### Quick Navigation
+
+> [!TIP]
+> * 🚀 **New to UltraEvents?** Check out the [Installation & Quickstart](getting-started/quickstart.md) guide to get started in under 2 minutes.
+> * 🛠️ **Setting up your Arena?** Follow the [In-Game Setup Wizard](setup/arena-setup.md) tutorial.
+> * 🎮 **Explore Mini-Games:** View the full catalog of rules in the [Mini-Games Overview](minigames/overview.md).
+> * ⚖️ **Choosing an Edition?** Compare features in the [Lite vs. Pro Edition](lite-vs-pro.md) breakdown.
+
+---
+
 ### Editions
 
 UltraEvents is available in two editions:
@@ -24,4 +39,3 @@ UltraEvents is available in two editions:
 2. **UltraEvents PRO**: The complete commercial edition with all 15+ mini-games, dynamic custom crates, unlimited commands, and premium support.
 
 👉 Read the [Lite vs. Pro Comparison](lite-vs-pro.md) to see what fits your server best!
-
