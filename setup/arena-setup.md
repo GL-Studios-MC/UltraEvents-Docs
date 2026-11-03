@@ -1,6 +1,16 @@
-# In-Game Setup Wizard
+# In-Game Setup Wizard & World Safety
 
 With UltraEvents, you don't need to manually write coordinates into YAML files. The entire arena setup can be completed in-game in less than 60 seconds.
+
+---
+
+> [!CAUTION]
+> ### ⚠️ Critical: How Arena Generation Works (Read Before Setup!)
+> UltraEvents uses a **dynamic, automated block transformation and regeneration engine**.
+> 
+> * **Blocks are cleared and transformed:** The arena area between your **Position 1** and **Position 2** bounds will be continuously modified, replaced, and regenerated during matches (e.g., ColorFloor generates colored concrete patterns, TNT Run disintegrates floor blocks, and procedural modes generate new paths).
+> * **DO NOT select your main server spawn or survival builds:** Setting `Pos1` and `Pos2` across player buildings, lobby structures, or survival towns will cause blocks in that region to be overridden by minigame mechanics!
+> * **Best Practice Recommendation:** Always set up your event arena in a **dedicated world** (e.g., a void world named `Events` created via Multiverse) or at isolated coordinates (e.g., `X: 10000, Z: 10000`) safely separated from normal player structures.
 
 ---
 
@@ -59,10 +69,20 @@ Your setup is permanently stored in `config.yml` and hot-reloaded immediately!
 
 ---
 
+### Generation Modes: Procedural vs. Snapshot
+
+You can toggle between two arena generation types in `/eventadmin` or `config.yml`:
+
+1. **`PROCEDURAL` (Default):**
+   * The plugin automatically calculates and generates random obstacle courses, paths, and platform layouts every single round.
+   * **Zero build maintenance:** You don't need to build arenas manually or paste schematics!
+
+2. **`SNAPSHOT`:**
+   * Takes a template snapshot of your hand-built custom arena structure and restores it cleanly between matches.
+
+---
+
 > [!IMPORTANT]
-> ### 🛡️ Admin Pro-Tip: WorldGuard & Spawn Protection
-> * **Vanilla Spawn Protection:** If your arena is near the world spawn point, ensure `spawn-protection=0` is set in your `server.properties`, otherwise non-OP players cannot interact with minigame blocks.
-> * **WorldGuard Regions:** If you protect your arena with WorldGuard, ensure the region allows:
->   * `pvp: allow` (for combat modes like Sumo and One in the Chamber)
->   * `block-break: allow` (for Spleef)
->   * Alternatively, UltraEvents bypasses restrictions automatically for registered participants when using standard Bukkit events!
+> ### 🛡️ WorldGuard & Spawn Protection
+> * **Vanilla Spawn Protection:** If your arena is in the default world near coordinates `0, 0`, ensure `spawn-protection=0` is set in your `server.properties`, otherwise vanilla protection blocks non-OP players from minigame interactions.
+> * **WorldGuard Regions:** If you protect your arena with WorldGuard, ensure the region allows `pvp: allow` and `block-break: allow` (for Spleef), or rely on UltraEvents' native bypass protection for registered event participants.
