@@ -8,23 +8,39 @@ UltraEvents features 15+ built-in, highly optimized mini-games designed to test 
 
 ### 1. Color Floor `[Lite & PRO]`
 * **Objective**: Stand on the announced target color before time runs out!
-* **Mechanics**: The arena floor turns into a vibrant multi-color mosaic. When a color is called, all other blocks vanish, dropping players who were too slow into the void.
+* **Mechanics**: The arena floor turns into a vibrant mosaic of colored concrete blocks. When a color is called, all other blocks vanish, dropping players who were too slow into the void.
+
+![Color Floor in Action](https://raw.githubusercontent.com/GL-Studios-MC/UltraEvents-Docs/main/assets/game_color_floor.jpg)
+
+---
 
 ### 2. TNT Run `[Lite & PRO]`
 * **Objective**: Never stop sprinting!
 * **Mechanics**: Every floor block stepped on by a player disappears after a short delay. The last player standing on the platform wins.
 
+![TNT Run Multi-Layer Arena](https://raw.githubusercontent.com/GL-Studios-MC/UltraEvents-Docs/main/assets/game_tnt_run_1.jpg)
+
+---
+
 ### 3. TNT Tag `[Lite & PRO]`
 * **Objective**: Pass the exploding TNT to another player before the countdown hits 0!
 * **Mechanics**: One or more players receive exploding TNT on their head. Punching another player passes the TNT. When the countdown ends, whoever holds the TNT is eliminated!
+
+---
 
 ### 4. Red Light, Green Light `[Lite & PRO]`
 * **Objective**: Cross the finish line without being spotted moving during Red Light!
 * **Mechanics**: During Green Light, rush forward. When Red Light triggers, freeze immediately. Any movement or head turn causes instant elimination!
 
+![Red Light Green Light Track](https://raw.githubusercontent.com/GL-Studios-MC/UltraEvents-Docs/main/assets/game_red_light.jpg)
+
+---
+
 ### 5. Laser Sweep `[PRO Only]`
 * **Objective**: Jump over rotating laser hazard beams!
 * **Mechanics**: Multi-beam laser obstacles spin across the arena, accelerating over time. If a laser touches you, you are swept off the platform!
+
+---
 
 ### 6. Parkour Masters `[PRO Only]`
 * **Objective**: Complete challenging parkour checkpoints with increasing difficulty and jump precision.
@@ -52,6 +68,10 @@ UltraEvents features 15+ built-in, highly optimized mini-games designed to test 
 ### 10. Rising Lava `[PRO Only]`
 * **Objective**: The floor is lava!
 * **Mechanics**: Molten lava continuously rises from below. Climb upward using shifting terrain before the inferno catches up with you.
+
+![Rising Lava Arena](https://raw.githubusercontent.com/GL-Studios-MC/UltraEvents-Docs/main/assets/game_rising_lava.jpg)
+
+---
 
 ### 11. Meteor Storm `[PRO Only]`
 * **Objective**: Dodge falling explosive meteors!
