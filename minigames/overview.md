@@ -26,6 +26,8 @@ UltraEvents features 15+ built-in, highly optimized mini-games designed to test 
 * **Objective**: Pass the exploding TNT to another player before the countdown hits 0!
 * **Mechanics**: One or more players receive exploding TNT on their head. Punching another player passes the TNT. When the countdown ends, whoever holds the TNT is eliminated!
 
+![TNT Tag in Action](https://raw.githubusercontent.com/GL-Studios-MC/UltraEvents-Docs/main/assets/game_tnt_tag.jpg)
+
 ---
 
 ### 4. Red Light, Green Light `[Lite & PRO]`
